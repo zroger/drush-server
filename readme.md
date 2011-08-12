@@ -1,4 +1,1 @@
-Drush Development Server
-------------------------
-
-
+Development has been moved to [drush-toolbox](https://github.com/zroger/drush-toolbox).
